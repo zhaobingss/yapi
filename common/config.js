@@ -2,6 +2,8 @@ module.exports = {
   exts: [{
     name: 'import-postman'
   },{
+    name: 'import-postman2'
+  },{
     name: 'import-har'
   },{
     name: 'advanced-mock'
